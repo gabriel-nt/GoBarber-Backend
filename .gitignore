@@ -1,6 +1,7 @@
 .vscode/
 node_modules/
 dist/
+coverage/
 .env
 ormconfig.json
 README-FEATURES.md
