@@ -73,7 +73,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone https://github.com/gabriel-nt/GoStack-Backend
 
 # Crie o container do Postgres
-$ docker run --name livestock -e POSTGRES_PASSWORD=docker -p 5432:5432 -d postgres
+$ docker run --name gobarber -e POSTGRES_PASSWORD=docker -p 5432:5432 -d postgres
 
 # Crie o container do MongoDB
 $ docker run --name mongodb -p 27017:27017 -d -t mongo
