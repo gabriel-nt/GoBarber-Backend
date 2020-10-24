@@ -66,7 +66,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 Também, será necessário ter o [Docker](https://www.docker.com/) instalado e configurado em sua máquina.
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🧾 Configurando Docker
+### 🛢 Configurando Docker
 ```bash
 
 # Clone este repositório
@@ -103,8 +103,12 @@ $ yarn test --coverage
 
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333>
 ```
-
 * Obs: Para executar os backend, crie um banco de dados.
+
+### 🧾 Insomnia
+Para ter um exemplo das rotas para a nossa API, basta clicar no link abaixo:
+</br>
+<a href="https://insomnia.rest/run/?label=Rest%20API%20GoBarber&uri=https%3A%2F%2Fgithub.com%2Fgabriel-nt%2FGoBarber-Backend%2Fblob%2Fmaster%2Ftmp%2Frest_api.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 
 ### 🚀 Tecnologias
 
